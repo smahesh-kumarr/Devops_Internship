@@ -1,0 +1,29 @@
+
+What is Cloud ? 
+Cloud is a virtual environment, where they provide the service Like 
+Compute -> EC2, Lambda, ECS, Batch,
+Networking -> VPC,VPN,Peering, Transist Gateway, Direct Connect 
+Security -> KMS, Secret manager, Advisor, Inspector
+DataBase ->  RDS, Aurora, Dyanamo,
+Storage
+
+
+Differnece Instance Types and Family:
+General Purpose
+Compute Optimized
+Storage Optimized 
+Memory Optimized
+High Performance Computing 
+Accelerated Computed
+
+
+Types of Load Balancer 
+Classic Load Balancer 
+Network Load Balancer 
+Application Load Balancer 
+Gateway Load Balancer 
+
+
+
+Cron Jobs => 
+
