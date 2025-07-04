@@ -1,0 +1,18 @@
+git push error => when there is updated version code in the github and lesser version 
+in the git and some changes in the local and try to push will lead to error (to resolve git pull --no-ff)
+
+ssh-keygen
+cat /root/.ssh/id_rsa.pub
+ssh -T git@github.com
+
+git Branching Strategy 
+There are four types of branches will 
+master / main , dev, test, UAT, Production 
+master / main => will be the  updated version or main code or app implementation will be
+dev => Developers will work on this branch and push to it 
+test branch => Testing operation done by this branch if in case failure or bug find again notify to the dev team 
+UAT => client and company discussion on how the product is 
+Production => If all good in code will push to production and merge to master/main
+
+cloning => If production has a bug then It will be cloned and work by the dev and workflow continues
+
