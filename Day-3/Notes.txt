@@ -16,3 +16,11 @@ Production => If all good in code will push to production and merge to master/ma
 
 cloning => If production has a bug then It will be cloned and work by the dev and workflow continues
 
+git merge conflict => when the branches has the same file name  if the merging happens which has the same filename
+the error which is show is merge conflict
+
+
+master branch right statement
+dev branch wrong statement 
+
+git checkout maths --theirs
